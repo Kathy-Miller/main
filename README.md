@@ -19,5 +19,5 @@
 
 
 [linkedin]: https://linkedin.com/in/kathy--miller
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kathylynnmiller" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kathylynnmiller?trk=profile-badge">Kathy Miller</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kathy--miller" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kathy--miller?trk=profile-badge">kathy--miller</a></div>
               
