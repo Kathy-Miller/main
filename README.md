@@ -1,1 +1,23 @@
-# Welcome to my portfolio of work. Please look around and reach out if you have questions. Thank you for visiting.
+<h1>Hi, I'm Kathy, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+[linkedin]: https://linkedin.com/in/kathy--miller
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kathylynnmiller" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kathylynnmiller?trk=profile-badge">Kathy Miller</a></div>
+              
